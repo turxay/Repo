@@ -1,0 +1,55 @@
+accordions:
+1. section accordion: (sass) extend border-none; -
+2. ilk accordionlari aciq qoymaq -selected ile ede bilerem -
+3. jquery kodunu azaltmaq(optimallasdirmaq)-
+4. responsivlik -
+
+tabs:
+1. jquery kodunu azaltmaq(optimallasdirmaq) -
+2. responsivlik -
+
+home page:
+from-our-blog:
+img transition esme -
+
+shop list page:
+products z-index -
+
+header: navbar -
+search & cart part -
+
+// if (progressBar == 0) {
+    //     progressBar = 1;
+    //     var elem = document.getElementById("my_bar");
+    //     var width = 1;
+    //     var id = setInterval(frame, 10);
+    //     function frame() {
+    //         if (width >= 95) {
+    //             clearInterval(id);
+    //             progressBar = 0;
+    //         } else {
+    //             width++;
+    //             elem.style.width = width + "%";
+    //         }
+    //     }
+    // }
+
+
+
+// if (loading == 0) {
+    //     loading = 1;
+    //     var elem = $(".f_loading");
+    //     var loadingCount = 1;
+    //     var id = setInterval(frame, 10);
+    //     function frame() {
+    //         if (loadingCount >= 95) {
+    //             clearInterval(id);
+    //             loading = 0;
+    //         } else {
+    //             loadingCount++;
+    //             // elem.style.width = width + "%";
+    //             elem.text(loadingCount + "%");
+    //             // elem.innerText = loadingCount + "%";
+    //         }
+    //     }
+    // }
